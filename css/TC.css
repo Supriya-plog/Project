@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.tabs{
+	    overflow: hidden;
+    border-bottom: 1px solid #f07e7c;
+}
+.tab-txt{
+	color: #92939e!important;
+}
+.tablinks{
+	font-size: 20px;
+}
+	.sy{
+		width: 800px;
+		background-color: #f1f3f6;
+		 margin-left: 131px;
+	}
+	.tata{
+		font-family: 'Merienda', cursive;
+	}
+@media(max-width: 768px){
+	.sy{
+		margin-left: 10px;
+	}
+}
